@@ -1,7 +1,7 @@
 package com.bferrari.geoquiz;
 
 /**
- * Created by bferrari on 10/12/15.
+ * Created by bferrari.
  */
 
 public class Question {
